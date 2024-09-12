@@ -59,7 +59,7 @@ frame = Frame(window, width=800, height=400, bg='cyan')
 frame.place(x=50, y=50)
 
 
-logo = PhotoImage(file='C:\\Users\\ASUS\\Downloads\\icon.png') 
+logo = PhotoImage(file='Mention your image path') # image path 
 Label(frame, image=logo, bg="cyan").place(x=30, y=10)
 Label(frame, text='Color Finder', font='arial 25 bold', bg='cyan').place(x=120, y=25)
 
