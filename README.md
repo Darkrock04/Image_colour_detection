@@ -1,5 +1,5 @@
 
-# IMAGE_COLOUR_ Detection
+# IMAGE_COLOUR_ DETECTION
 
 # INTRODUCTION
 Creating an Image Color Finder project using Python, Tkinter, PIL (Pillow), and ColorThief is an exciting way to explore image processing and GUI development. This project allows users to load an image and identify the dominant colors or a color palette from the image.
